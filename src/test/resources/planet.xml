@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<planets>
+    <planet>
+        <name>
+            <en>Earth</en>
+            <es>Tierra</es>
+            <it>Terra</it>
+        </name>
+        <mass>5.972E24</mass>
+        <mass_units>kg</mass_units>
+        <radius>6,372</radius>
+        <radius_units>km</radius_units>
+    </planet>
+    <planet>
+        <name>
+            <en>Jupiter</en>
+            <es>Júpiter</es>
+            <fr>Giove</fr>
+        </name>
+        <mass>1.898E27</mass>
+        <mass_units>kg</mass_units>
+        <radius>69,911</radius>
+        <radius_units>km</radius_units>
+    </planet>
+    <planet>
+        <name>
+            <en>Venus</en>
+            <es>Vénus</es>
+            <fr>Venere</fr>
+        </name>
+        <mass>4.867E24</mass>
+        <mass_units>kg</mass_units>
+        <radius>6,052</radius>
+        <radius_units>km</radius_units>
+    </planet>
+</planets>
